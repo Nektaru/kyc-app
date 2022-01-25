@@ -17,8 +17,8 @@ function Footer() {
               <div class='footer-link-items'>
                 <h2>Sobre nosotros</h2>
                 <Link to='/info'>¿Quiénes somos?</Link>
-                <Link to='/'>¿Por qué Kilo y cuarto?</Link>
-                <Link to='/'>¿Está Esteven soltero?</Link>
+                <Link to='/info'>¿Qué nos diferencia del resto?</Link>
+                <Link to='/info'>¿Dónde nos encontramos?</Link>
               </div>
             </div>
             <div className='footer-link-wrapper'>
