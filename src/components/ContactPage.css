@@ -92,3 +92,9 @@
      padding: 4rem;
     }
 }
+
+@media screen and (max-width: 380px) {
+    .text-image-section {
+      padding: 3rem;
+  }
+}
