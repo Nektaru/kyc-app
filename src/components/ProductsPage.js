@@ -5,7 +5,6 @@ import './ProductsPage.css'
 function ProductsPage() {
     return (
         <>
-        <section id='especialidades'>
         <div className='cards'>
             <h1>Especialidades de la casa</h1>
             <div className='cards__container'>
@@ -39,8 +38,6 @@ function ProductsPage() {
                 </div>
             </div>
         </div>
-        </section>
-        <section id='compartir'>
         <div className='cards'>
             <h1>Para compartir</h1>
             <div className='cards__container'>
@@ -74,8 +71,6 @@ function ProductsPage() {
                 </div>
             </div>
         </div>
-        </section>
-        <section id='encargos'>
         <div className='cards'>
             <h1>Por encargo</h1>
             <div className='cards__container'>
@@ -108,8 +103,6 @@ function ProductsPage() {
                 </div>
             </div>
         </div>
-        </section>
-        <section id='campañas'>
         <div className='cards'>     
             <h1>Campañas especiales</h1>
             <div className='cards__container'>
@@ -142,9 +135,7 @@ function ProductsPage() {
                 </div>
             </div>
         </div>
-        </section>
-        </>
-        
+     </> 
     )
 }
 

@@ -13,25 +13,25 @@ function Cards() {
                             src='/images/img-9.jpg'
                             text='Cocinando para ti desde 1994'
                             label='Especialidades de la casa'
-                            path='/products/#especialidades'
+                            path='/products'
                         />
                         <CardItem
                             src='/images/img-3.png'
                             text='¿Tienes invitados? Tenemos la solución'
                             label='Para compartir'
-                            path='/products/#compartir'
+                            path='/products'
                         />
                         <CardItem
                             src='/images/paletilla.jpg'
                             text='¿Algo que celebrar?'
                             label='Bajo encargo'
-                            path='/products/#encargos'
+                            path='/products'
                         />
                         <CardItem
                             src='/images/img-4.png'
                             text='En fechas especiales déjanos la cocina a nosotros'
                             label='Campañas especiales'
-                            path='/products/#campañas'
+                            path='/products'
                         />
                     </ul>
                 </div>
